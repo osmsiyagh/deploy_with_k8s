@@ -10,7 +10,7 @@ deploying a stateless django app just to test my newbie skills on Kubernetes
 $ kubectl create -f <filepath/filename>
 
 
-3-retreive ip address using this command:
+3-retrieve ip address using this command:
 
 $ kubectl get -f <filepath/ingress.yaml>
 
