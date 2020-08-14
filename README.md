@@ -2,7 +2,7 @@
 
 deploying a stateless django app just to test my newbie skills on Kubernetes
 
-1- start the minikube cluster & enable igress addons
+1- start the minikube cluster & enable ingress addons
 
 
 2- create the deployment, services & ingress by using this command:
