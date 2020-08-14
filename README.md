@@ -14,4 +14,4 @@ $ kubectl create -f <filepath/filename>
 
 $ kubectl get -f <filepath/ingress.yaml>
 
-enjoy my cute litte baby app :)
+enjoy my cute little baby app :)
